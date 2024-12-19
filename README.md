@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <em>Hey</em><img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Piyush</em>
+ <em>Hey</em><img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Samyyak</em>
 </h1>
 
 👩🏻‍💻 Software Engineering undergrad learning and growing in tech.<br/>
