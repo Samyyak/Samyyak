@@ -1,5 +1,7 @@
 
-# Hi, I'm Samyyak!
+<h1 align="center">
+ <em>Hey</em><img src="svg/Hi.gif" height="37px" width="30px">, <em>I'm Piyush</em>
+</h1>
 
 👩🏻‍💻 Software Engineering undergrad learning and growing in tech.<br/>
 👩🏻‍🎓 Focusing on building helpful solutions for final year students like myself.<br/>
